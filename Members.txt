@@ -1,8 +1,13 @@
 List of members for team 45
 
-hello,
+Anna Yuen Lan Chan (add),
+Celine Leong,
 
-Anna Yuen Lan Chan
-Celine Leong
-Ricky He
+Brief introduction
+ 
+Role in project: assignment uploader, coder
+ 
+Preferred branch of engineering: unknown
+
+Ricky He,
 Benjamin Sam DiStefano
